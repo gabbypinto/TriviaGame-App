@@ -1,0 +1,70 @@
+.pageheader {
+    text-align: center;
+    font: 35px;
+    color: black;
+    font-weight: 400;
+    line-height: 37px;
+    }
+    
+    section.cms-boxes .cms-boxes-outer {
+        text-align: left;
+        margin-bottom: 6px;
+        padding: 0 3px;
+      }
+      section.cms-boxes .cms-boxes-outer .cms-boxes-items {
+        height: 350px;
+        display: table;
+        width: 100%;
+      }
+      section.cms-boxes .cms-boxes-outer .cms-boxes-items p {
+        color: #fff;
+      }
+      section.cms-boxes .kanye-trump {
+        background-color: rgb(58, 78, 189);
+      }
+      section.cms-boxes .boxes-align {
+        display: table-cell;
+        vertical-align: middle;
+      }
+      section.cms-boxes .small-box, 
+      section.cms-boxes .large-box {
+        max-width: 350px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      section.cms-boxes .cms-boxes-items h2 {
+        font-size: 35px;
+        color: #fff;
+        font-weight: 400;
+        line-height: 37px;
+        text-align: center;
+        margin: 20px 0 10px;
+        text-transform: uppercase;
+      }
+      section.cms-boxes .music-box {
+        background-color: #0489b7;
+      }
+       
+      section.cms-boxes .lyric-box {
+        background-color: rgb(41, 240, 147);
+      }
+    
+      section.cms-boxes .urbandictionary {
+        background-color: rgb(170, 53, 82);
+      }
+    
+      section.cms-boxes .movie-box {
+        background-color: rgb(226, 228, 95);
+      }
+    
+      section.cms-boxes .trivia-box {
+        background-color: rgb(185, 84, 84);
+      }
+    
+      section.cms-boxes .cms-security, section.cms-boxes .cms-documentation {
+        background-color: rgb(58, 78, 189);
+      }
+      section.cms-boxes .cms-boxes-items:hover {
+        opacity: .2;
+        cursor: pointer;
+      }
